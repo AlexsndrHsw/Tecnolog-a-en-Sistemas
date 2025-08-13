@@ -1,4 +1,4 @@
-int leds[] = {2, 3, 4, 5, 6, 7, 8, 9, 10, 11};// Pines donde están conectados los LEDs
+int leds[] = {2, 3, 4, 5, 6, 7, 8, 9, 10, 11}; // Pines donde están conectados los LEDs
 int numLeds = sizeof(leds) / sizeof(leds[0]);
 
 void setup() {
